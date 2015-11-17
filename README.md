@@ -11,6 +11,6 @@ The included R script, "run_analysis.R" performs the following data manipulation
 * Reads in the feature labels (features.txt) and labels the obervsation dataset columns accordingly
 * Reads in the activity names (activity_labels.txt) and uses these more readable text values in the obersation dataset instead
 * Tidies the measure variable names (observation column names) to make them more human readable
-* Summarises all the measures by taking means of each grouped by subject and activity
+* Summarises all the measures by taking means of each variable, grouped by subject and activity
 * Outputs this summarised data into a "MeansBySubjectAndActivity.txt" file
  
